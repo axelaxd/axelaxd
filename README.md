@@ -11,11 +11,11 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/axelaxdi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo"  />
-  </a>
   <a href="https://t.me/axelaxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/axelaxdi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo"  />
   </a>
 </div>
 
