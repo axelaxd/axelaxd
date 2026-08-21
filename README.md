@@ -33,22 +33,30 @@
 
 <p align="left">Студент 2-го курса Центрального Университета. Backend-разработчик на Go. Владею стандартной библиотекой, знаком с паттернами конкурентности (горутины, каналы, мьютексы). Пишу REST API, работаю с PostgreSQL. Использую Docker для контейнеризации и инструменты для тестирования (testing) </p>
 
-###
+### Main Skills
 
-<h3 align="left">🛠 Технологии:</h3>
+<a href="https://go.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=golang" width="40" height="40" alt="Go" align="center"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" align="center"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40" alt="Docker" align="center"></a>
 
-###
+### Familiar with
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
+<a href="https://www.python.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40" alt="Python" align="center"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=fastapi" width="40" height="40" alt="FastAPI" align="center"></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=numpy" width="40" height="40" alt="NumPy" align="center"></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=pandas" width="40" height="40" alt="Pandas" align="center"></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=matplotlib" width="40" height="40" alt="Matplotlib" align="center"></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=scikitlearn" width="40" height="40" alt="Scikit-Learn" align="center"></a>
+
+<a href="https://jwt.io/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=jwt" width="40" height="40" alt="JWT" align="center"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40" alt="MongoDB" align="center"></a>
+<a href="https://playwright.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=playwright" width="40" height="40" alt="Playwright" align="center"></a>
+
+<a href="https://www.linux.org/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=linux" width="40" height="40" alt="Linux" align="center"></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=ubuntu" width="40" height="40" alt="Ubuntu" align="center"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=bash" width="40" height="40" alt="Bash" align="center"></a>
+
+### Contact Me
+
+<a href="https://t.me/axelaxd" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=telegram" width="40" height="40" alt="Telegram" align="center"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wiwiskouk@gmail.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="40" height="40" alt="Gmail" align="center"></a>
