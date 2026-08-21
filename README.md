@@ -20,21 +20,6 @@
 - ⚡ Знаком с паттернами конкурентности (горутины, каналы, мьютексы)
 - 🐋 Использую Docker для контейнеризации и инструменты для тестирования (testing).
 
-<div align="center">
-  <a href="https://t.me/axelaxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/axelaxdi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=axelaxd.axelaxd&"  />
-</div>
-
 ### Main Skills
 
 <a href="https://go.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=golang" width="40" height="40" alt="Go" align="center"></a>
