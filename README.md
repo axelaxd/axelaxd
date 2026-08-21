@@ -46,5 +46,5 @@
 ### Contact Me
 
 <a href="https://t.me/axelaxd" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=telegram" width="40" height="40" alt="Telegram" align="center"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wiwiskouk@gmail.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="40" height="40" alt="Gmail" align="center"></a>
 <a href="https://www.instagram.com/axelaxdi" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram" width="40" height="40" alt="Instagram" align="center"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=wiwiskouk@gmail.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="40" height="40" alt="Gmail" align="center"></a>
