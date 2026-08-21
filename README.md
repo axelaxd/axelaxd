@@ -35,14 +35,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=axelaxd.axelaxd&"  />
 </div>
 
-###
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
-
-<p align="left">Студент 2-го курса Центрального Университета. Backend-разработчик на Go. Владею стандартной библиотекой, знаком с паттернами конкурентности (горутины, каналы, мьютексы). Пишу REST API, работаю с PostgreSQL. Использую Docker для контейнеризации и инструменты для тестирования (testing) </p>
-
 ### Main Skills
 
 <a href="https://go.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=golang" width="40" height="40" alt="Go" align="center"></a>
