@@ -10,6 +10,16 @@
 
 ###
 
+<h3>
+  Backend Developer&nbsp;
+  <a href="https://go.dev/" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=golang" width="28" height="28" alt="Go" align="center"></a>
+</h3>
+
+- 🎓 Студент 2-го курса Центрального Университета.
+- 💻 Разрабатываю проекты на **Go**.
+- ⚡ Знаком с паттернами конкурентности (горутины, каналы, мьютексы)
+- 🐋 Использую Docker для контейнеризации и инструменты для тестирования (testing).
+
 <div align="center">
   <a href="https://t.me/axelaxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -60,3 +70,4 @@
 
 <a href="https://t.me/axelaxd" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=telegram" width="40" height="40" alt="Telegram" align="center"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wiwiskouk@gmail.com" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=gmail" width="40" height="40" alt="Gmail" align="center"></a>
+<a href="https://www.instagram.com/axelaxdi" target="_blank"><img src="https://skills.syvixor.com/api/icons?i=instagram" width="40" height="40" alt="Instagram" align="center"></a>
